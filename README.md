@@ -11,5 +11,6 @@
 <a href="https://github.com/trydave">
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br />
+
+
 <img align="right" alt="JPG" src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2019/08/Geo.jpg" />
