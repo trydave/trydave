@@ -1,4 +1,9 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! I am Tri Dev Acharya. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+#RS #GIS #Landcover #Surfacewater #Landsat
+#GeoAI #GeoEd #GeoMentor #CareerCoach
+#FirstGen #PhD #Civil #Geomatics #Map
+#Posdoc @UCDavis
 
 <a href="https://twitter.com/dev_333">
   <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -11,11 +16,3 @@
 </a>
 <br />
 <img align="right" alt="JPG" src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2019/08/Geo.jpg" />
-
-### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-
-⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
