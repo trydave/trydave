@@ -12,5 +12,5 @@
   <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-
-<img align="right" alt="JPG" src="https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2019/08/Geo.jpg" />
+</n>
+<img align="right" alt="JPG" src="https://www.hararepost.co.zw/images/Geospatial-Technology2.jpg" />
