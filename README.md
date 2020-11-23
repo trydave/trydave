@@ -1,9 +1,6 @@
 ## Hello World! I am Tri Dev Acharya. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
+#Posdoc @UCDavis </br>
 #RS #GIS #Landcover #Surfacewater #Landsat #GeoAI #GeoEd #GeoMentor #CareerCoach #FirstGen #PhD #Geomatics #Map
-<br/>
-
-#Posdoc @UCDavis
 <br/>
 
 <a href="https://scholar.google.com/citations?user=uaQfhkgAAAAJ&hl=en">
