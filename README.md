@@ -2,6 +2,9 @@
 #Posdoc @UCDavis: https://its.ucdavis.edu/people/tri-dev-acharya/ </br>
 #RS #GIS #Landcover #Surfacewater #Landsat #GeoAI #GeoEd #GeoMentor #CareerCoach #FirstGen #PhD #Geomatics #Map
 <br/>
+
+Get connected with me !!!
+<br/>
 <a href="https://scholar.google.com/citations?user=uaQfhkgAAAAJ&hl=en">
   <img align="left" alt="TDA's Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
@@ -27,7 +30,7 @@
 <a href="https://www.facebook.com/tridev">
   <img align="left" alt="TDA's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br/>
+</br>
 
 ___
 <img align="left" alt="JPG" src="https://pbs.twimg.com/profile_banners/51406121/1594267332/1500x500" />
