@@ -3,7 +3,27 @@
 #RS #GIS #Landcover #Surfacewater #Landsat #GeoAI #GeoEd #GeoMentor #CareerCoach #FirstGen #PhD #Geomatics #Map
 <br/>
 
-<a class="twitter-timeline" href="https://twitter.com/dev_333?ref_src=twsrc%5Etfw">Tweets by dev_333</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="row">
+   <div class="col-md-4"></div>
+   <div class="container">
+      <div class="col-md-4">
+         <div class="panel panel-danger">
+            <div class="panel-heading">
+               <h3 class="panel-title"><i class="fa fa-twitter-square" aria-hidden="true"></i>
+                  Tri Dev Acharya Live
+               </h3>
+            </div>
+            <div class="panel-body">
+               <a class="twitter-timeline" data-width="100%" href="https://twitter.com/dev_333">Tweets by dev_333</a> 
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="col-md-4">
+   </div>
+</div>
+<script async src="//platform.twitter.com/widgets.js
+
 
 Get connected with me !!!
 <br/>
