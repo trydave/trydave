@@ -3,6 +3,8 @@
 #RS #GIS #Landcover #Surfacewater #Landsat #GeoAI #GeoEd #GeoMentor #CareerCoach #FirstGen #PhD #Geomatics #Map
 <br/>
 
+<a class="twitter-timeline" href="https://twitter.com/dev_333?ref_src=twsrc%5Etfw">Tweets by dev_333</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Get connected with me !!!
 <br/>
 <a href="https://scholar.google.com/citations?user=uaQfhkgAAAAJ&hl=en">
