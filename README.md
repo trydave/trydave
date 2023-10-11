@@ -34,3 +34,5 @@ Get connected with me !!!
 
 ___
 <img align="left" alt="JPG" src="https://pbs.twimg.com/profile_banners/51406121/1594267332/1500x500" />
+
+![](https://komarev.com/ghpvc/?username=trydave)
